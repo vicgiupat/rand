@@ -1,0 +1,20 @@
+https://serramaraniversario2021.crmall.com (TCP 80, 443)
+https://campanhas.crmall.com (TCP 80, 443, 9850)
+https://baseunica.com (TCP 80, 443)
+http://crmall.tv (TCP 80 e 443)
+http://prizor.com (TCP 80 e 443)
+
+...
+
+
+
+[Instalação e atualização dos aplicativos]
+
+177.66.162.162 (TCP 80, 443) prizor.com
+177.66.162.133 (TCP 80, 443) prizor.com —> antecipado.com.br —> campanhas.crmall.com 
+17.0.0.0/8 (TCP 80, 443) Apple
+63.92.224.0/19 (TCP 80, 443) Apple
+
+[Monitoramento Prizor]
+
+200.203.183.39 (UDP 1200)

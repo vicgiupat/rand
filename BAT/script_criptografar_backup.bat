@@ -1,0 +1,1 @@
+forfiles /P e:\backup\ /c "cmd /c rename @path @fname.@ops

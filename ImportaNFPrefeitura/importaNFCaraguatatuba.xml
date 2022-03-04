@@ -1,0 +1,119 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+importaNFCaraguatatuba
+</name>
+</assembly>
+<members>
+<member name="T:importaNFCaraguatatuba.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:importaNFCaraguatatuba.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:importaNFCaraguatatuba.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.#ctor">
+<remarks/>
+</member>
+<member name="E:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getTokenCompleted">
+<remarks/>
+</member>
+<member name="E:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getNextInvoiceCompleted">
+<remarks/>
+</member>
+<member name="E:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getActivityCompleted">
+<remarks/>
+</member>
+<member name="E:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.setInvoiceCompleted">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getToken(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getTokenAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getTokenAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getNextInvoice(System.String)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getNextInvoiceAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getNextInvoiceAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getActivity(System.String)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getActivityAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.getActivityAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.setInvoice(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.setInvoiceAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.setInvoiceAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:importaNFCaraguatatuba.WSPrefeitura.NFSePresconInformatica.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:importaNFCaraguatatuba.WSPrefeitura.getTokenCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:importaNFCaraguatatuba.WSPrefeitura.getTokenCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:importaNFCaraguatatuba.WSPrefeitura.getTokenCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:importaNFCaraguatatuba.WSPrefeitura.getNextInvoiceCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:importaNFCaraguatatuba.WSPrefeitura.getNextInvoiceCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:importaNFCaraguatatuba.WSPrefeitura.getNextInvoiceCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:importaNFCaraguatatuba.WSPrefeitura.getActivityCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:importaNFCaraguatatuba.WSPrefeitura.getActivityCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:importaNFCaraguatatuba.WSPrefeitura.getActivityCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:importaNFCaraguatatuba.WSPrefeitura.setInvoiceCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:importaNFCaraguatatuba.WSPrefeitura.setInvoiceCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:importaNFCaraguatatuba.WSPrefeitura.setInvoiceCompletedEventArgs.Result">
+<remarks/>
+</member>
+</members>
+</doc>

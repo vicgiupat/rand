@@ -1,0 +1,23 @@
+Acer
+Em computadores Acer, as teclas mais comuns para acessar o BIOS são F2 e DEL. Se você ainda tiver um computador muito antigo, tente a tecla F1 ou o atalho Ctrl + Alt + Esc.
+
+Asus
+A Asus programou a tecla F2 mas, em computadores mais antigos, podem ser as teclas F10, Insert ou Delete.
+
+Dell
+Atualmente, nos computadores Dell é a tecla F12 que dá acesso ao BIOS. Aperte esta tecla assim que o logotipo da marca aparecer. Se não funcionar, pressione as teclas F1, F2 ou F3.
+
+HP
+Os modelos mais recentes dos computadores têm como padrão de acesso ao BIOS a tecla F10 ou então a tecla Esc. Como acontece com outras marcas, em máquinas mais antigas talvez funcionem as teclas F1, F2, F6 ou F11.
+
+Lenovo
+Esse fabricante optou pelas teclas F1 ou F2 para acessar o BIOS. Em computadores mais antigos, os atalhos Ctrl + Alt + F3, Ctrl + Alt + Insert ou Fn + F1 levarão ao BIOS.
+
+Sony
+A série VAIO estabeleceu as teclas F1, F2 ou F3 para acessar o BIOS. A tecla ASSIST, presente em alguns modelos, também pode servir para acessar o BIOS, basta pressioná-la durante a inicialização.
+
+Toshiba
+Toshiba determinou a tecla F2 para o acesso ao BIOS. Se não funcionar, pressione as teclas F1 ou Esc. Nos computadores mais antigos, tente a tecla F12.
+
+Positivo
+Ao reiniciar seu computador, pressione e segure a tecla Del. Isto fará com que o computador entre no setup do BIOS. Se for solicitada uma senha, digite 2320212.
